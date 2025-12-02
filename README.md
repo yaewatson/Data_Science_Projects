@@ -1,4 +1,2 @@
-# -FoodHub_Order_Analysis_w-_Python
-Project Highlighting some of my foundational skills in Python (EDA) (Univariate Analysis) (Bi-variate Analysis)
-
-The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
+# -Data_Science_Projects
+This Repo highlights some of my data science related personal projects.  
